@@ -3,6 +3,6 @@
 
 STT | Bài học | Link Demo
 --- | ------- | ---------
-01 | <a href="https://github.com/devjoyvn/50projects-fe/tree/master/hover_board" target="_blank">Hover board</a> | <a href="https://devjoyvn.github.io/50projects-fe/hover_board/index.html" target="_blank">Demo</a>
+01 | [Hover board](https://github.com/devjoyvn/50projects-fe/tree/master/hover_board) | [Demo](https://devjoyvn.github.io/50projects-fe/hover_board/index.html)
 
 Hi vọng thông qua các bài học này sẽ giúp ích cho bạn
